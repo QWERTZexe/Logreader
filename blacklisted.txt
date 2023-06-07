@@ -1,0 +1,32 @@
+[main/INFO]
+[main/WARN]
+[main/DEBUG]
+[main/TRACE]
+[main/ERROR]
+[Sound Library Loader/
+[Thread
+[WebSocketConnectReadThread
+[Client thread/
+[Forge Version Check/
+[Essential
+[VersionCheck/
+me.semx11
+[AutotipThread/
+javax.net
+[pool
+net.minecraft
+sun.security
+sun.net
+java.net
+[Chunk Batcher
+[DefaultDispatcher
+[Netty Client
+java.security
+java.lang
+java.util
+net.minecraftforge
+gg.essential
+sun.reflect
+io.netty
+sun.nio
+java.io
